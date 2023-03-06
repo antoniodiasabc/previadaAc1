@@ -1,0 +1,19 @@
+vamos criar um projeto de um carro voador que realize uma viagem por ate 10 dolares
+
+analise arquivo analise.txt
+req1 - para a viagem alcancar os 10 dolares o sistema de voo autonomo
+req2 - para que polua o ambiende o veiculo deve ser movido a hidrogenio 
+
+arquitetura (arquiteta.txt)
+desenvolvimento baseado em microservicos 
+
+
+desenvolvimento
+vou  desenvolver python
+criar aplicativo mobile pra cliente pedir carro
+
+teste
+fazer unitario para cada requisito e muitos testes a partes mais importantes
+ 
+operacao
+vamos os ambientes de producao com ferramnetas de log, acompoanho disco, cpu, io, rede
